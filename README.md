@@ -31,6 +31,8 @@ Lowering customer churn is a goal all companies strive for. One of the most effe
 
 * Models were evaluated on f1 score via validation dataset.
 
+* The best model is Naive Bayes with an F1 score of 71.1%.
+
 
 ## Files
 Sparkify.ipynb - The jupyter notebook containing the analysis. Including preprocessing, data exploration, modeling, and evaluation.
