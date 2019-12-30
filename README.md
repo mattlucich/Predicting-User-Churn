@@ -37,4 +37,4 @@ Lowering customer churn is a goal all companies strive for. One of the most effe
 ## Files
 Sparkify.ipynb - The jupyter notebook containing the analysis. Including preprocessing, data exploration, modeling, and evaluation.
 
-mini_sparkify_event_data.json (not included) - The user activity/analytics dataset which comes from Udacity. Details on the data included in the dataset can be found at the accompanying [Medium article.](https://medium.com/@matt.lucich/predicting-user-churn-from-web-analytics-445a8a1432ea)
+mini_sparkify_event_data.json (not included) - The user activity/analytics dataset which comes from Udacity.
